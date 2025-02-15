@@ -38,7 +38,7 @@ Ensure you have the following installed:
 #### 1. Clone the Repository
 ```bash
 git clone https://github.com/SuhaniKapasiya/accredian-frontend-task.git
-cd refer-earn-frontend
+cd accredian-frontend-task
 ```
 
 #### 2. Install Dependencies
