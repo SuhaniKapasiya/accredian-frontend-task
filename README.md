@@ -61,7 +61,7 @@ The frontend interacts with the backend API to submit referrals.
 
 | Method | Endpoint      | Description                         |
 |--------|-------------|-------------------------------------|
-| POST   | `/refer`    | Submit a new referral               |
+| POST   | `/api/refer`    | Submit a new referral               |
 
 ---
 
